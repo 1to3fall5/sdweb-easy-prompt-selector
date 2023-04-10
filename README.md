@@ -1,3 +1,4 @@
-# Easy Prompt Selector
+标签列表
+自用
+Fork for personal use
 
-[使い方(暫定)](https://blue-pen5805.fanbox.cc/posts/5306601)
